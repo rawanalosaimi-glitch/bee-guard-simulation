@@ -1,0 +1,1 @@
+Uses the sand slot files (rocky_trail_02 — Poly Haven, CC0 1.0) via tile.json "same_as".

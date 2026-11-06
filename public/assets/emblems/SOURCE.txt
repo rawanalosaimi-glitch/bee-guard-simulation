@@ -1,0 +1,6 @@
+saudi_emblem.svg — Emblem of Saudi Arabia (crossed swords and palm tree)
+Source: Wikimedia Commons, "File:Emblem of Saudi Arabia.svg" (current version, retrieved 2026-10-20 via the file page's original-file link).
+Status on Commons: public domain (Saudi Arabia, Royal Decree No. M/41); also offered under GFDL 1.2+.
+Byte-identical copy, 13 064 bytes, SHA-256 7afb1c647afe66cf037a3920dda7ed1cd498877b9786374246ed1c52cb962643
+Note (Commons insignia notice): the use of national emblems is restricted in many countries, independently of copyright.
+Used only as a visual decal on the simulated bee drones (src/viz/models/BeeEmblem.tsx); not modified.

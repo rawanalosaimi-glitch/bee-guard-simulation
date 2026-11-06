@@ -1,0 +1,114 @@
+{
+  "generated": "2026-10-19T19:12:40.837Z",
+  "textures": {
+    "concrete": {
+      "albedo": "assets/textures/concrete/concrete_layers_diff_1k.jpg",
+      "normal": "assets/textures/concrete/concrete_layers_nor_gl_1k.jpg",
+      "normalConvention": "GL",
+      "roughness": "assets/textures/concrete/concrete_layers_rough_1k.jpg",
+      "res": {
+        "1k": {
+          "albedo": "assets/textures/concrete/concrete_layers_diff_1k.jpg",
+          "normal": "assets/textures/concrete/concrete_layers_nor_gl_1k.jpg",
+          "normalConvention": "GL",
+          "roughness": "assets/textures/concrete/concrete_layers_rough_1k.jpg"
+        },
+        "2k": {
+          "albedo": "assets/textures/concrete/concrete_layers_diff_2k.jpg",
+          "normal": "assets/textures/concrete/concrete_layers_nor_gl_2k.jpg",
+          "normalConvention": "GL",
+          "roughness": "assets/textures/concrete/concrete_layers_rough_2k.jpg"
+        }
+      },
+      "mean_rgb": [
+        109,
+        101,
+        94
+      ],
+      "tile_m": 1.55
+    },
+    "corrugated_metal": {
+      "albedo": "assets/textures/corrugated_metal/corrugated_iron_diff_1k.jpg",
+      "metalness": "assets/textures/corrugated_metal/corrugated_iron_metal_1k.jpg",
+      "normal": "assets/textures/corrugated_metal/corrugated_iron_nor_gl_1k.jpg",
+      "normalConvention": "GL",
+      "roughness": "assets/textures/corrugated_metal/corrugated_iron_rough_1k.jpg",
+      "res": {
+        "1k": {
+          "albedo": "assets/textures/corrugated_metal/corrugated_iron_diff_1k.jpg",
+          "metalness": "assets/textures/corrugated_metal/corrugated_iron_metal_1k.jpg",
+          "normal": "assets/textures/corrugated_metal/corrugated_iron_nor_gl_1k.jpg",
+          "normalConvention": "GL",
+          "roughness": "assets/textures/corrugated_metal/corrugated_iron_rough_1k.jpg"
+        },
+        "2k": {
+          "albedo": "assets/textures/corrugated_metal/corrugated_iron_diff_2k.jpg",
+          "metalness": "assets/textures/corrugated_metal/corrugated_iron_metal_2k.jpg",
+          "normal": "assets/textures/corrugated_metal/corrugated_iron_nor_gl_2k.jpg",
+          "normalConvention": "GL",
+          "roughness": "assets/textures/corrugated_metal/corrugated_iron_rough_2k.jpg"
+        }
+      },
+      "mean_rgb": [
+        170,
+        179,
+        175
+      ],
+      "tile_m": 1.12
+    },
+    "sand": {
+      "albedo": "assets/textures/sand/rocky_trail_02_diff_1k.jpg",
+      "normal": "assets/textures/sand/rocky_trail_02_nor_gl_1k.jpg",
+      "normalConvention": "GL",
+      "roughness": "assets/textures/sand/rocky_trail_02_rough_1k.jpg",
+      "res": {
+        "1k": {
+          "albedo": "assets/textures/sand/rocky_trail_02_diff_1k.jpg",
+          "normal": "assets/textures/sand/rocky_trail_02_nor_gl_1k.jpg",
+          "normalConvention": "GL",
+          "roughness": "assets/textures/sand/rocky_trail_02_rough_1k.jpg"
+        },
+        "2k": {
+          "albedo": "assets/textures/sand/rocky_trail_02_diff_2k.jpg",
+          "normal": "assets/textures/sand/rocky_trail_02_nor_gl_2k.jpg",
+          "normalConvention": "GL",
+          "roughness": "assets/textures/sand/rocky_trail_02_rough_2k.jpg"
+        }
+      },
+      "mean_rgb": [
+        136,
+        107,
+        82
+      ],
+      "tile_m": 2
+    },
+    "ground": {
+      "albedo": "assets/textures/sand/rocky_trail_02_diff_1k.jpg",
+      "normal": "assets/textures/sand/rocky_trail_02_nor_gl_1k.jpg",
+      "normalConvention": "GL",
+      "roughness": "assets/textures/sand/rocky_trail_02_rough_1k.jpg",
+      "res": {
+        "1k": {
+          "albedo": "assets/textures/sand/rocky_trail_02_diff_1k.jpg",
+          "normal": "assets/textures/sand/rocky_trail_02_nor_gl_1k.jpg",
+          "normalConvention": "GL",
+          "roughness": "assets/textures/sand/rocky_trail_02_rough_1k.jpg"
+        },
+        "2k": {
+          "albedo": "assets/textures/sand/rocky_trail_02_diff_2k.jpg",
+          "normal": "assets/textures/sand/rocky_trail_02_nor_gl_2k.jpg",
+          "normalConvention": "GL",
+          "roughness": "assets/textures/sand/rocky_trail_02_rough_2k.jpg"
+        }
+      },
+      "mean_rgb": [
+        136,
+        107,
+        82
+      ],
+      "tile_m": 2
+    }
+  },
+  "models": {},
+  "hdri": null
+}

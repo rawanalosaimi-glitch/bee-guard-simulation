@@ -1,0 +1,3 @@
+concrete_layers — Poly Haven (https://polyhaven.com/a/concrete_layers), CC0 1.0 (public domain).
+Converted from the 4K package for BEE-GUARD Stage 4: 1K/2K JPG, normals re-normalised (OpenGL convention),
+roughness/metalness linear 8-bit. Real-world tile size 1.55 m (Poly Haven dimensions). Displacement not used.

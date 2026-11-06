@@ -1,0 +1,10 @@
+# Local-verification files: not needed to build the website, not uploaded to Vercel
+tests
+experiments
+vitest.config.ts
+VERIFY_LOCALLY.md
+# Never upload
+node_modules
+dist
+*.log
+.env*
